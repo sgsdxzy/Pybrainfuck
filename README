@@ -1,0 +1,3 @@
+Pybrainfuck is a brainfuck interpreter written in python
+brainfuck.py is the core lib. 
+pybf.py is the wrapper.
